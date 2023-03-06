@@ -13,6 +13,9 @@ The development has been conducted within the project SCOREwater. This project h
 - Architecture configuration inside the conf.yaml file.
 - In order to use the code, data is mandatory. The needed format is specified in the XXX file.
 
+
+
+
 # Citing
 
 Paper on the way.
