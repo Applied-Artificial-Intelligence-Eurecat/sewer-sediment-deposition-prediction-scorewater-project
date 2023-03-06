@@ -6,8 +6,8 @@ from sklearn.metrics import recall_score, precision_score, accuracy_score, roc_a
 from sklearn.model_selection import KFold
 from sklearn.preprocessing import MinMaxScaler
 from torch.utils.data import TensorDataset, DataLoader
-from src.models.to_github.models.ann import NeuralNetwork
-from src.models.to_github.models.autoencoder import AutoEncoder
+from models.ann import NeuralNetwork
+from models.autoencoder import AutoEncoder
 
 config = {}
 
