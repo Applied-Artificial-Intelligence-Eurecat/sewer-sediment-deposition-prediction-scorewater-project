@@ -12,6 +12,7 @@ The development has been conducted within the project SCOREwater. This project h
 - Dependencies listed inside the requirements.txt file.
 - Architecture configuration inside the conf.yaml file.
 - In order to use the code, data is mandatory. The needed format is specified in models/input example.txt.
+- An example on how to use these models in a deploy stage can be seen in /deploy directory.
 
 To use the already saved models, they can be loaded into a python script using the following code:
 ```
