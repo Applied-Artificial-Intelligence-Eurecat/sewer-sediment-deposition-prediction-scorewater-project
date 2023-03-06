@@ -1,0 +1,19 @@
+AE:
+  layer1: 30
+  layer2: 20
+  layer3: 15
+  activation: 'ReLu'
+  epochs: 500
+
+
+ANN:
+  layer1: 20
+  layer2: 20
+  activation: 'Softsign'
+  epochs: 50
+
+data:
+  path: '.'
+
+results:
+  path: '.'
